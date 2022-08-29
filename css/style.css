@@ -8,6 +8,10 @@ body{
     margin-right: 25%;
 }
 
+.paragraph{
+    margin-bottom: 20px;
+}
+
 #slogan{
     height:78px;
     width:100%;
@@ -34,4 +38,24 @@ body{
 #date{
     color: #808088;
     font-size: 0.7em;
+}
+
+main{
+    margin-top: 20px;
+}
+
+#tim-img img{
+    width: 45%;
+}
+
+#tim-img #tim1{
+    width: 53%;
+}
+
+#tim-img #img-subtitle{
+    font-size: 0.7em;
+}
+
+.highlighted{
+    background-color: yellow;
 }
