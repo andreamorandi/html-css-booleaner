@@ -59,3 +59,30 @@ main{
 .highlighted{
     background-color: yellow;
 }
+
+table{
+    border-spacing: 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.smallcol{
+    width: 300px;
+}
+
+.bigcol{
+    width: 500px;
+}
+
+th{
+    text-align: left;
+}
+
+.blue-line{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.lightblue-line{
+    background-color: #b1e5f2;
+}
