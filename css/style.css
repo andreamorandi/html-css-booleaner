@@ -6,10 +6,18 @@
 html{
     margin-left: 25%;
     margin-right: 25%;
+    background-color: black;
+}
+
+main, footer{
+    background-color: white;
+    margin: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .paragraph{
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 #slogan{
@@ -22,7 +30,7 @@ html{
 }
 
 #slogan img{
-    width: 15%;
+    width: 17%;
     margin-top: 35px;
     margin-left: 10px;
 }
@@ -40,8 +48,8 @@ html{
     font-size: 0.7em;
 }
 
-main{
-    margin-top: 20px;
+main, footer{
+    padding-top: 20px;
 }
 
 #tim-img img{
