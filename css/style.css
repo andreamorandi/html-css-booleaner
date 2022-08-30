@@ -73,17 +73,13 @@ ul{
 }
 
 table{
-    border-spacing: 0px;
+    border-spacing: 0px;            /*Oppure collapse*/
     margin-top: 30px;
     margin-bottom: 30px;
 }
 
-.smallcol{
-    width: 300px;
-}
-
 .bigcol{
-    width: 500px;
+    width: 50%;
 }
 
 th{
